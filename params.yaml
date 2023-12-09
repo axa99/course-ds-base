@@ -1,0 +1,12 @@
+base:
+  random_stage: 42
+
+data:
+  # loading data config
+  dataset_csv: './'
+
+train:
+  # training config and hyperparameters
+
+reports:
+  # reports config
